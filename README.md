@@ -1,6 +1,6 @@
-# Repositório do Desafio de Projeto da DIO 
-Desafio de Projeto sobre git/github
+#Desafio de Projeto Git/GitHub
+Repositório para o primeiro desafio da Dio
 
 
 ## Links úteis
- [Sintex Basica Markdown]()
+ [Sintex Basica Markdown](https://www.markdownguide.org/basic-syntax/)
