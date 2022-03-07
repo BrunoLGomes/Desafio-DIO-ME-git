@@ -1,5 +1,6 @@
 #Desafio de Projeto Git/GitHub
-Repositório para o primeiro desafio da Dio
+
+Repositório para o primeiro desafio da Dio.
 
 
 ## Links úteis
